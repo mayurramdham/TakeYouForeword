@@ -1,0 +1,15 @@
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\bin\Debug\net8.0\isPalindrome.exe
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\bin\Debug\net8.0\isPalindrome.deps.json
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\bin\Debug\net8.0\isPalindrome.runtimeconfig.json
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\bin\Debug\net8.0\isPalindrome.dll
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\bin\Debug\net8.0\isPalindrome.pdb
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.AssemblyInfoInputs.cache
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.AssemblyInfo.cs
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.csproj.CoreCompileInputs.cache
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.sourcelink.json
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.dll
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\refint\isPalindrome.dll
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.pdb
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\isPalindrome.genruntimeconfig.cache
+F:\DSA\TakeYouForeword\Numbers\isPalindrome\isPalindrome\obj\Debug\net8.0\ref\isPalindrome.dll
