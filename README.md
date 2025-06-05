@@ -3,6 +3,6 @@
 | Date       | Topic  | Problem                        | Status | Notes      |
 | ---------- | ------ | ------------------------------ | ------ | ---------- |
 | 2025-06-04 | Arrays | Setup structure and Palindrome | ✅     | Easy Start |
-| 2025-06-02 | Arrays | Linear Search                  | ✅     |
+| 2025-06-02 | Arrays | Largest and Second Largest     | ✅     | Day 2
 
 |
