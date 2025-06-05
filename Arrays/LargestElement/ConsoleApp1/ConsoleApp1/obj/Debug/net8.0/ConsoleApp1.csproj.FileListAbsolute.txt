@@ -1,0 +1,15 @@
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+F:\DSA\TakeYouForeword\Arrays\LargestElement\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
